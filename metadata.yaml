@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '8751'
     url: http://www.gutenberg.org/2009/agents/8751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19560#Applied-Eugenics
 gutenberg_bookshelf:
 - Racism
 - Sociology
