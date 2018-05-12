@@ -1,0 +1,37 @@
+_repo: Applied-Eugenics_19560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Popenoe, Paul
+    alias: Popenoe, Paul Bowman
+    birthdate: 1888
+    deathdate: 1979
+    gutenberg_agent_id: '8750'
+    url: http://www.gutenberg.org/2009/agents/8750
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Popenoe
+  - agent_name: Johnson, Roswell H. (Roswell Hill)
+    alias: Johnson, Roswell Hill
+    birthdate: 1877
+    deathdate: 1967
+    gutenberg_agent_id: '8751'
+    url: http://www.gutenberg.org/2009/agents/8751
+description: ''
+gutenberg_bookshelf:
+- Racism
+- Sociology
+gutenberg_issued: '2006-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eugenics'
+- !lcc 'HQ'
+title: Applied Eugenics
+url: http://www.gutenberg.org/ebooks/19560
